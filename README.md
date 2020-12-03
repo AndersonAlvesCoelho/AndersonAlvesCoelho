@@ -1,7 +1,5 @@
 <h2> Olá! Me chamo, Anderson Alves Coelho! <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="50"></h2>
-
 <hr>
-
 <img src="https://media0.giphy.com/media/gUNA7QH4AeLde/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left"> 
   Estagiário de programação com objetivo de agregar para a comunidade da área, conseguintemente crescendo provisionalmente e pessoalmente. Trabalhando atualmente com <strong>REACT.JS</strong> & <strong>NODE.JS</strong> na Instituto de Pesquisa Ambiental da Amazônia.
