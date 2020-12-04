@@ -22,8 +22,6 @@
  [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:a0a0coelho0@gmailcom)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-alves-coelho)
  [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_anderson_alves/)
- [![Instagram](https://image.flaticon.com/icons/png/512/2111/2111370.png)](https://discord.gg/dvqds5Re)
- 
-
+ [![Instagram](https://image.flaticon.com/icons/png/512/2111/2111370.png){:min-width="30px" max-width="30px" width="30px"}](https://discord.gg/dvqds5Re)
 
 </p>  
