@@ -19,10 +19,11 @@
 <br/>
 <p align="left">
  
-  <a href="https://discord.gg/dvqds5Re" alt="Discord"><img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" min-width="30px" max-width="30px" width="30px"/></a>
-  <a href="https://www.instagram.com/_anderson_alves/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
-  <a href="https://www.linkedin.com/in/anderson-alves-coelho/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+ [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:a0a0coelho0@gmailcom)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-alves-coelho)
+ [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_anderson_alves/)
+ [![Instagram](https://image.flaticon.com/icons/png/512/2111/2111370.png)](https://discord.gg/dvqds5Re)
+ 
+
 
 </p>  
