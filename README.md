@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  💎 Habilidades: <strong>HTML5, CSS3 (Bootstrap &  Materialize), JavaScript (React & Node), PHP (PDO & laravel ), SQL (MySQL & PostgreSQL),  Vba, e UI/UX Design.</strong>
+  💎 Habilidades: <strong>HTML5, CSS3 (Bootstrap &  Materialize), JavaScript (React, React Native & Node), PHP (PDO & laravel ), SQL (MySQL & PostgreSQL),  Vba, e UI/UX Design.</strong>
 </p>
 
 <p align="left">
