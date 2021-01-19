@@ -2,10 +2,10 @@
 
 <img src="https://media0.giphy.com/media/gUNA7QH4AeLde/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left"> 
-  <ol>
+  <ul>
   <li>Estagiário de programação com objetivo de agregar para a comunidade da área, conseguintemente crescendo provisionalmente e pessoalmente. </li> 
   <li>Trabalhando atualmente com <strong>React Native</strong> & <strong>Node + sequelize</strong> na Instituto de Pesquisa Ambiental da Amazônia e ao mesmo tempo desenvolvendo uma plataforma de concurso publico utilizando <strong>React</strong> & <strong>Node + knex</strong>. </li>
-  <ol>
+  </ul>
 </p>
 
 <p align="left">
