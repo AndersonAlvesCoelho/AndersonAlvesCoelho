@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🔨 Ferramentas: <strong>Visual Studio Code, Figma, Adobe XD, Git, GitHub, Git Lab, SAS e PGadmin 4.</strong>
+  🔨 Ferramentas: <strong>Visual Studio Code, Figma, Adobe XD, Git, GitHub, Git Lab, Insomnia, SAS e PGadmin 4.</strong>
 </p>
 
 <p align="left">
