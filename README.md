@@ -2,7 +2,7 @@
 
 <img src="https://media0.giphy.com/media/gUNA7QH4AeLde/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left"> 
-  Estagiário de programação com objetivo de agregar para a comunidade da área, conseguintemente crescendo provisionalmente e pessoalmente. Trabalhando atualmente com <strong>REACT.JS</strong> & <strong>NODE.JS</strong> na Instituto de Pesquisa Ambiental da Amazônia.
+  Estagiário de programação com objetivo de agregar para a comunidade da área, conseguintemente crescendo provisionalmente e pessoalmente. Trabalhando atualmente com <strong>React Native</strong> & <strong>Node + sequelize</strong> na Instituto de Pesquisa Ambiental da Amazônia e ao mesmo tempo desenvolvendo uma plataforma de concurso publico utilizando <strong>React</strong> & <strong>Node + knex</strong> .
 </p>
 
 <p align="left">
