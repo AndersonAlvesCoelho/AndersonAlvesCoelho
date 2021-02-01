@@ -25,6 +25,6 @@
 </p>
 
 <p align="left">
-  💌 Se você quer realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
+  💌 If you want to carry out a project with me (or chat), do not hesitate to send me a message: ⤵️
 </p>
 
