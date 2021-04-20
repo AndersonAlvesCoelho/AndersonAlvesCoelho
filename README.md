@@ -8,16 +8,16 @@
   <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" min-width="30px" max-width="30px" width="30px"/>
 </a>
 
-<img src="https://media0.giphy.com/media/gUNA7QH4AeLde/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="./undraw_developer_activity_bv83.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left"> 
   <ul>
-  <li>Programming intern with the objective of adding to the community of programmers, successfully growing provisionally and personally.</li> 
+  <li>Programming with the objective of adding to the community of programmers, successfully growing provisionally and personally.</li> 
   <li>Currently working with <strong>React Native</strong> & <strong>Node + sequelize</strong> at the Environmental Research Institute of the Amazon and at the same time developing a public tender platform using <strong>React</strong> & <strong>Node + knex</strong>. </li>
   </ul>
 </p>
 
 <p align="left">
-  💎 Skill: <strong>HTML5, CSS3 (Bootstrap &  Materialize), JavaScript (React, React Native & Node), PHP (PDO & laravel ), SQL (MySQL & PostgreSQL),  Vba e UI/UX Design.</strong>
+  💎 Skill: <strong>HTML5, CSS3 (Bootstrap &  Materialize), JavaScript (React, React Native & Node), PHP (PDO & laravel ), SQL (MySQL & PostgreSQL),  VBA e UI/UX Design.</strong>
 </p>
 
 <p align="left">
