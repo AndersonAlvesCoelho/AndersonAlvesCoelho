@@ -3,9 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anajuliabit/)](https://www.linkedin.com/in/anderson-alves-coelho/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@anajuliabit)](https://a0a0coelho0.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anajuliabit@gmail.com)](mailto:a0a0coelho0@gmailcom)
-<a href="https://discord.gg/8YeVAYcZza" alt="Discord">
-  <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" min-width="30px" max-width="30px" width="30px"/>
-</a>
 
 <img src="./undraw_developer_activity_bv83.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left"> 
