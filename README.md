@@ -8,7 +8,7 @@
 <p align="left"> 
   <ul>
   <li>Programming with the objective of adding to the community of programmers, successfully growing provisionally and personally.</li> 
-  <li>Currently working with <strong>React Native</strong> & <strong>Node + sequelize</strong> at the Environmental Research Institute of the Amazon and at the same time developing a public tender platform using <strong>React</strong> & <strong>Node + knex</strong>. </li>
+  <li>Currently working with <strong>React Native</strong> & <strong>Node + sequelize</strong> at the Environmental Research Institute of the Amazon and at the same time developing a public tender platform using <strong>React</strong> & <strong>Node + sequelize</strong>. </li>
   </ul>
 </p>
 
