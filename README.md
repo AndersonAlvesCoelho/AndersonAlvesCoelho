@@ -11,7 +11,6 @@
 # Sobre Mim
 Olá, sou um analista de sistemas apaixonado por criar soluções tecnológicas inovadoras para desafios ambientais. Meu foco está em combinar tecnologia e sustentabilidade para construir um futuro melhor.
 -
----
 ## 💻 Habilidades
 - **Linguagens**: JavaScript, TypeScript, PHP e Python;
 - **Frameworks** e Bibliotecas: React.js, React Native, Node.js, Express.js, Next.js;
@@ -20,12 +19,10 @@ Olá, sou um analista de sistemas apaixonado por criar soluções tecnológicas 
 - **Ferramentas de Versionamento**: Git, GitHub, GitLab;
 - **Práticas de DevOps**: Docker.
   
----
 ## 🌱 Procurando Novas Oportunidades
 
 Estou em busca de oportunidades que unam minha paixão pela tecnologia e meu compromisso com a sustentabilidade. Se você está buscando um desenvolvedor analista de sistemas para criar soluções inovadoras e oferecer a melhor experiência para os usuários, vamos conversar!
 -
----
 ## 📞 Entre em Contato
 - **Email**: seuemail@exemplo.com
 - **LinkedIn**: linkedin.com/seuperfil
