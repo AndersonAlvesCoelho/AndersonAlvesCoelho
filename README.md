@@ -24,8 +24,8 @@ Olá, sou um analista de sistemas apaixonado por criar soluções tecnológicas 
 Estou em busca de oportunidades que unam minha paixão pela tecnologia e meu compromisso com a sustentabilidade. Se você está buscando um desenvolvedor analista de sistemas para criar soluções inovadoras e oferecer a melhor experiência para os usuários, vamos conversar!
 
 ## 📞 Entre em Contato
-- **Email**: seuemail@exemplo.com
-- **LinkedIn**: linkedin.com/seuperfil
+- **Email**: [a0a0coelho0@gmail.com](a0a0coelho0@gmail.com)
+- **LinkedIn**: [anderson-alves-coelho](https://www.linkedin.com/in/anderson-alves-coelho/)
 - **Telefone**: +55 61 99172-0125
 - **Discord**: zoi0704
 
