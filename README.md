@@ -25,6 +25,6 @@ Olá, sou um analista de sistemas apaixonado por criar soluções tecnológicas 
 - **Telefone**: +55 61 99172-0125
 - **Discord**: zoi0704
 
-Estou aberto a discutir possíveis colaborações e projetos interessantes. Vamos trabalhar juntos para impulsionar a inovação tecnológica e criar um futuro sustentável através da tecnologia.
+Estou aberto a colaborações em projetos open source. Vamos unir forças para impulsionar a inovação tecnológica e construir um futuro sustentável por meio da tecnologia.
 
 ## 🌍 Tech + Sustentabilidade = Futuro Melhor
