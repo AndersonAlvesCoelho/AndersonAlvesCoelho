@@ -119,6 +119,7 @@ export const projects: Project[] = [
       'Página web interativa que orienta o usuário a calcular sua pegada de carbono pessoal, apresentando resultados visuais e intuitivos para conscientização ambiental.',
     role: 'Desenvolvedor Frontend | Projeto de Impacto',
     technologies: ['React', 'Tailwind CSS'],
+    link: 'https://carbon-calc.vercel.app/',
     github: 'https://github.com/AndersonAlvesCoelho/carbon-calc',
     image: ImageCalculadoraPegadaCarbono,
     category: 'Sustentabilidade',
