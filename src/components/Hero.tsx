@@ -1,8 +1,17 @@
 import heroBg from '@/assets/hero-bg.jpg';
 import { motion } from 'framer-motion';
-import { ExternalLink, FileDown, Github, Linkedin, Mail } from 'lucide-react';
+import {
+  CheckCircle2,
+  ExternalLink,
+  FileDown,
+  Github,
+  Linkedin,
+  Mail,
+} from 'lucide-react';
 import { Button } from './ui/button';
 
+import cvUrlFromAssets from '@/assets/Curriculo_Anderson_Alves_10_10_2025.pdf';
+import { useToast } from '@/hooks/use-toast';
 import {
   Cloud,
   Code2,
@@ -13,6 +22,7 @@ import {
   Smartphone,
   Terminal,
 } from 'lucide-react';
+import { useState } from 'react';
 
 const technologies = [
   { name: 'React Native', icon: Smartphone },
@@ -35,6 +45,66 @@ export default function SectionHero() {
     }
   };
 
+  const [isDownload, setIsDownload] = useState(false);
+  const { toast } = useToast();
+
+  const CV_FILE_NAME = 'Curriculo_Anderson_Alves_10_10_2025.pdf';
+  const CV_URL =
+    (cvUrlFromAssets as string) || '/Curriculo_Anderson_Alves_10_10_2025.pdf';
+
+  const handleDownload = async () => {
+    setIsDownload(true);
+    try {
+      await new Promise((resolve) => setTimeout(resolve, 1500));
+
+
+      const link = document.createElement('a');
+      link.href = CV_URL;
+      link.setAttribute('download', CV_FILE_NAME);
+      document.body.appendChild(link);
+
+      link.click();
+      document.body.removeChild(link);
+
+      const isExternal = (() => {
+        try {
+          const urlObj = new URL(CV_URL, window.location.href);
+          return urlObj.origin !== window.location.origin;
+        } catch {
+          return false;
+        }
+      })();
+
+      if (isExternal) {
+        const res = await fetch(CV_URL, { mode: 'cors' });
+        if (!res.ok) throw new Error('Falha ao baixar o arquivo');
+        const blob = await res.blob();
+        const blobUrl = URL.createObjectURL(blob);
+        const link2 = document.createElement('a');
+        link2.href = blobUrl;
+        link2.download = CV_FILE_NAME;
+        document.body.appendChild(link2);
+        link2.click();
+        document.body.removeChild(link2);
+        URL.revokeObjectURL(blobUrl);
+      }
+
+      toast({
+        title: 'Currículo baixado!',
+        description: 'Obrigado pelo interesse.',
+        duration: 5000,
+      });
+    } catch (error) {
+      console.error('Erro ao baixar CV', error);
+      toast({
+        title: 'Erro',
+        description: 'Não foi possível baixar o currículo. Tente novamente.',
+        duration: 5000,
+      });
+    } finally {
+      setIsDownload(false);
+    }
+  };
   return (
     <section
       id="hero"
@@ -138,11 +208,20 @@ export default function SectionHero() {
             <Button
               variant="outline"
               size="lg"
-              onClick={() => window.open('#', '_blank')}
+              onClick={handleDownload}
               className="border-primary hover:bg-primary/5"
             >
-              Baixar CV
-              <FileDown className="ml-2 h-4 w-4" />
+              {isDownload ? (
+                <>
+                  <CheckCircle2 className="mr-2 h-5 w-5 animate-spin" />
+                  Baixando...
+                </>
+              ) : (
+                <>
+                  <FileDown className="ml-2 h-4 w-4" />
+                  Baixar CV
+                </>
+              )}
             </Button>
           </motion.div>
 
