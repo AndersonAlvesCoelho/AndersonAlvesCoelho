@@ -57,7 +57,6 @@ export default function SectionHero() {
     try {
       await new Promise((resolve) => setTimeout(resolve, 1500));
 
-
       const link = document.createElement('a');
       link.href = CV_URL;
       link.setAttribute('download', CV_FILE_NAME);
@@ -105,6 +104,10 @@ export default function SectionHero() {
       setIsDownload(false);
     }
   };
+
+  const pdfUrl =
+    'https://docs.google.com/document/d/1ifVABa9I0FDJnisZSxfKptHClqcSg6dA/export?format=pdf';
+
   return (
     <section
       id="hero"
@@ -208,7 +211,7 @@ export default function SectionHero() {
             <Button
               variant="outline"
               size="lg"
-              onClick={handleDownload}
+              onClick={() => window.open(pdfUrl, '_blank')}
               className="border-primary hover:bg-primary/5"
             >
               {isDownload ? (
